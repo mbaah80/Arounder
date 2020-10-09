@@ -5,7 +5,7 @@ discover places arond the globe
 
 ## Screenshot
 
-❮img src="bandicam2020-10-09 09-30-56-092.jpg" ❯
+❮img src="img.jpg" ❯
 
 ## Project setup
 ```
