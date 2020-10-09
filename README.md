@@ -4,7 +4,8 @@ Around The World
 discover places arond the globe
 
 ## Screenshot
-![](bandicam 2020-10-09 09-30-56-092.jpg)
+
+❮img src="bandicam2020-10-09 09-30-56-092.jpg" ❯
 
 ## Project setup
 ```
