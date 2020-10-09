@@ -28,6 +28,11 @@ yarn build
 ```
 yarn lint
 ```
+### Resources
+Bootstrap
+JQuery
+Font awesome
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
