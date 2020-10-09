@@ -5,7 +5,7 @@ discover places arond the globe
 
 ## Screenshot
 
-❮img src="img.jpg" ❯
+![](img.png)
 
 ## Project setup
 ```
